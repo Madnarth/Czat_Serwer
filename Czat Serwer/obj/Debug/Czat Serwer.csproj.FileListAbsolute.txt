@@ -1,0 +1,9 @@
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\bin\Debug\Czat Serwer.exe.config
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\bin\Debug\Czat Serwer.exe
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\bin\Debug\Czat Serwer.pdb
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\obj\Debug\Czat Serwer.csprojResolveAssemblyReference.cache
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\obj\Debug\Czat_Serwer.Form1.resources
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\obj\Debug\Czat_Serwer.Properties.Resources.resources
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\obj\Debug\Czat Serwer.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\obj\Debug\Czat Serwer.exe
+E:\Dokumenty\GitHub\Czat Serwer\Czat Serwer\obj\Debug\Czat Serwer.pdb
