@@ -24,7 +24,6 @@ namespace Czat_Serwer
         public Form1()
         {
             InitializeComponent();
-            InitializeComponent();
             clientsList = new ArrayList();
             namesClients = new ArrayList();
             isServerActive = false;
